@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Jhordan Duran",
+  "name": "Portafolio Jhordan Duran",
   "icons": [
     {
       "src": "perfil.ico",
@@ -8,14 +8,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "perfil.png",
+      "src": "perfil192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x148"
     },
     {
-      "src": "perfil.png",
+      "src": "perfil512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x394"
     }
   ],
   "start_url": ".",
